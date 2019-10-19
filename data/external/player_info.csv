@@ -1,0 +1,531 @@
+PLAYER,TEAM,AGE,HEIGHT,WEIGHT,COLLEGE,COUNTRY,DFT_YR,DFT_RND,DFT_NUM
+Aaron Gordon,ORL,23,6 9,220,Arizona,USA,2014,1,4
+Aaron Holiday,IND,22,6 1,185,UCLA,USA,2018,1,23
+Abdel Nader,OKC,25,6 6,225,Iowa State,Egypt,2016,2,58
+Al Horford,BOS,33,6 10,245,Florida,Dominican Rep...,2007,1,3
+Al-Farouq Aminu,POR,28,6 9,220,Wake Forest,USA,2010,1,8
+Alan Williams,BKN,26,6 8,265,Cal-Santa Barbara,USA,Undrafted,Undrafted,Undrafted
+Alec Burks,SAC,27,6 6,214,Colorado,USA,2011,1,12
+Alex Abrines,OKC,25,6 6,200,None,Spain,2013,2,32
+Alex Caruso,LAL,25,6 5,186,Texas A&M,USA,Undrafted,Undrafted,Undrafted
+Alex Len,ATL,26,7 1,250,Maryland,Ukraine,2013,1,5
+Alex Poythress,ATL,25,6 9,235,Kentucky,USA,Undrafted,Undrafted,Undrafted
+Alfonzo McKinnie,GSW,26,6 8,215,None,USA,Undrafted,Undrafted,Undrafted
+Alize Johnson,IND,23,6 9,212,Missouri State University,USA,2018,2,50
+Allen Crabbe,BKN,27,6 6,212,California,USA,2013,2,31
+Allonzo Trier,NYK,23,6 5,200,University of Arizona,USA,Undrafted,Undrafted,Undrafted
+Amile Jefferson,ORL,26,6 9,222,Duke,USA,Undrafted,Undrafted,Undrafted
+Amir Johnson,PHI,32,6 9,240,None,USA,2005,2,56
+Andre Drummond,DET,25,6 11,279,Connecticut,USA,2012,1,9
+Andre Iguodala,GSW,35,6 6,215,Arizona,USA,2004,1,9
+Andre Ingram,LAL,33,6 3,190,American,USA,Undrafted,Undrafted,Undrafted
+Andrew Bogut,GSW,34,7 1,260,Utah,Australia,2005,1,1
+Andrew Harrison,NOP,24,6 6,213,Kentucky,USA,2015,2,44
+Andrew Wiggins,MIN,24,6 8,194,Kansas,Canada,2014,1,1
+Anfernee Simons,POR,20,6 4,185,None,USA,2018,1,24
+Angel Delgado,LAC,24,6 10,245,None,Dominican Rep...,Undrafted,Undrafted,Undrafted
+Ante Zizic,CLE,22,6 11,254,None,Croatia,2016,1,23
+Anthony Davis,NOP,26,6 10,253,Kentucky,USA,2012,1,1
+Anthony Tolliver,MIN,34,6 8,250,Creighton,USA,Undrafted,Undrafted,Undrafted
+Antonio Blakeney,CHI,22,6 4,192,Louisiana State,USA,Undrafted,Undrafted,Undrafted
+Aron Baynes,BOS,32,6 10,260,Washington State,Australia,Undrafted,Undrafted,Undrafted
+Austin Rivers,HOU,26,6 4,200,Duke,USA,2012,1,10
+Avery Bradley,MEM,28,6 2,180,Texas,USA,2010,1,19
+BJ Johnson,SAC,23,6 7,200,None,USA,Undrafted,Undrafted,Undrafted
+Bam Adebayo,MIA,21,6 10,255,Kentucky,USA,2017,1,14
+Ben McLemore,SAC,26,6 5,201,Kansas,USA,2013,1,7
+Ben Simmons,PHI,22,6 10,230,Louisiana State,Australia,2016,1,1
+Billy Garrett,NYK,24,6 6,215,DePaul University,USA,Undrafted,Undrafted,Undrafted
+Bismack Biyombo,CHA,26,6 9,255,None,Democratic Re...,2011,1,7
+Blake Griffin,DET,30,6 10,250,Oklahoma,USA,2009,1,1
+Boban Marjanovic,PHI,30,7 3,290,None,Serbia,Undrafted,Undrafted,Undrafted
+Bobby Portis,WAS,24,6 11,250,Arkansas,USA,2015,1,22
+Bogdan Bogdanovic,SAC,26,6 6,205,None,Serbia,2014,1,27
+Bojan Bogdanovic,IND,30,6 8,216,None,Croatia,2011,2,31
+Bonzie Colson,MIL,23,6 6,225,Notre Dame,USA,Undrafted,Undrafted,Undrafted
+Brad Wanamaker,BOS,29,6 4,210,None,USA,Undrafted,Undrafted,Undrafted
+Bradley Beal,WAS,26,6 5,207,Florida,USA,2012,1,3
+Brandon Goodwin,DEN,23,6 2,180,None,USA,Undrafted,Undrafted,Undrafted
+Brandon Ingram,LAL,21,6 9,190,Duke,USA,2016,1,2
+Brandon Knight,CLE,27,6 3,195,Kentucky,USA,2011,1,8
+Brandon Sampson,CHI,22,6 5,184,None,USA,Undrafted,Undrafted,Undrafted
+Brook Lopez,MIL,31,7 1,270,Stanford,USA,2008,1,10
+Bruce Brown,DET,22,6 5,202,University of Miami,USA,2018,2,42
+Bruno Caboclo,MEM,23,6 9,218,None,Brazil,2014,1,20
+Bryn Forbes,SAS,25,6 3,190,Michigan State,USA,Undrafted,Undrafted,Undrafted
+Buddy Hield,SAC,26,6 4,214,Oklahoma,Bahamas,2016,1,6
+C.J. Williams,MIN,29,6 5,226,North Carolina State,USA,Undrafted,Undrafted,Undrafted
+CJ McCollum,POR,27,6 3,190,Lehigh,USA,2013,1,10
+CJ Miles,MEM,32,6 6,220,None,USA,2005,2,34
+Caleb Swanigan,SAC,22,6 9,250,Purdue,USA,2017,1,26
+Cameron Payne,CLE,24,6 3,190,Murray State,USA,2015,1,14
+Cameron Reynolds,MIN,24,6 8,225,None,USA,Undrafted,Undrafted,Undrafted
+Caris LeVert,BKN,24,6 7,204,Michigan,USA,2016,1,20
+Carmelo Anthony,HOU,35,6 8,240,Syracuse,USA,2003,1,3
+Cedi Osman,CLE,24,6 8,215,None,Turkey,2015,2,31
+Chandler Hutchison,CHI,23,6 7,197,Boise State University,USA,2018,1,22
+Chandler Parsons,MEM,30,6 10,230,Florida,USA,2011,2,38
+Channing Frye,CLE,36,7 1,255,Arizona,USA,2005,1,8
+Chasson Randle,WAS,26,6 2,185,Stanford,USA,Undrafted,Undrafted,Undrafted
+Cheick Diallo,NOP,22,6 9,220,Kansas,Mali,2016,2,33
+Chimezie Metu,SAS,22,6 10,225,University of Southern California,USA,2018,2,49
+Chris Boucher,TOR,26,6 10,200,Oregon,Canada,Undrafted,Undrafted,Undrafted
+Chris Chiozza,HOU,23,6 1,175,None,USA,Undrafted,Undrafted,Undrafted
+Chris Paul,HOU,34,6 1,175,Wake Forest,USA,2005,1,4
+Christian Wood,NOP,23,6 10,214,UNLV,USA,Undrafted,Undrafted,Undrafted
+Clint Capela,HOU,25,6 10,240,None,Switzerland,2014,1,25
+Cody Zeller,CHA,26,7 1,240,Indiana,USA,2013,1,4
+Collin Sexton,CLE,20,6 2,190,University of Alabama,USA,2018,1,8
+Corey Brewer,SAC,33,6 9,186,Florida,USA,2007,1,7
+Cory Joseph,IND,27,6 3,193,Texas,Canada,2011,1,29
+Courtney Lee,DAL,33,6 5,215,Western Kentucky,USA,2008,1,22
+Cristiano Felicio,CHI,26,6 10,265,None,Brazil,Undrafted,Undrafted,Undrafted
+D'Angelo Russell,BKN,23,6 5,198,Ohio State,USA,2015,1,2
+D.J. Augustin,ORL,31,6 1,183,Texas,USA,2008,1,9
+D.J. Wilson,MIL,23,6 10,231,Michigan,USA,2017,1,17
+DJ Stephens,MEM,28,6 5,188,Memphis,USA,Undrafted,Undrafted,Undrafted
+Dairis Bertans,NOP,29,6 4,200,None,Latvia,Undrafted,Undrafted,Undrafted
+Damian Jones,GSW,24,7 1,245,Vanderbilt,USA,2016,1,30
+Damian Lillard,POR,28,6 3,195,Weber State,USA,2012,1,6
+Damion Lee,GSW,26,6 6,210,Louisville,USA,Undrafted,Undrafted,Undrafted
+Damyean Dotson,NYK,25,6 6,210,Houston,USA,2017,2,44
+Daniel Hamilton,ATL,23,6 7,195,Connecticut,USA,2016,2,56
+Daniel Theis,BOS,27,6 8,243,None,Germany,Undrafted,Undrafted,Undrafted
+Danilo Gallinari,LAC,30,6 10,225,None,Italy,2008,1,6
+Danny Green,TOR,32,6 6,215,North Carolina,USA,2009,2,46
+Dante Cunningham,SAS,32,6 8,230,Villanova,USA,2009,2,33
+Dante Exum,UTA,23,6 6,190,None,Australia,2014,1,5
+Danuel House Jr.,HOU,26,6 7,220,Texas A&M,USA,Undrafted,Undrafted,Undrafted
+Dario Saric,MIN,25,6 10,223,None,Croatia,2014,1,12
+Darius Miller,NOP,29,6 8,225,Kentucky,USA,2012,2,46
+Darren Collison,IND,31,6 1,175,UCLA,USA,2009,1,21
+Daryl Macon,DAL,23,6 3,185,University of Arkansas,USA,Undrafted,Undrafted,Undrafted
+David Nwaba,CLE,26,6 4,219,None,USA,Undrafted,Undrafted,Undrafted
+Davis Bertans,SAS,26,6 10,225,None,Latvia,2011,2,42
+Davon Reed,IND,24,6 5,208,Miami,USA,2017,2,32
+De'Aaron Fox,SAC,21,6 3,175,Kentucky,USA,2017,1,5
+De'Anthony Melton,PHX,21,6 4,200,University of Southern California,USA,2018,2,46
+DeAndre Jordan,NYK,30,6 11,265,Texas A&M,USA,2008,2,35
+DeAndre' Bembry,ATL,24,6 6,210,"St. Joseph's, PA",USA,2016,1,21
+DeMar DeRozan,SAS,29,6 7,220,USC,USA,2009,1,9
+DeMarcus Cousins,GSW,28,6 11,270,Kentucky,USA,2010,1,5
+DeMarre Carroll,BKN,32,6 8,215,Missouri,USA,2009,1,27
+DeVaughn Akoon-Purcell,DEN,26,6 6,200,Illinois State University,Trinidad and ...,Undrafted,Undrafted,Undrafted
+Deandre Ayton,PHX,20,7 1,250,University of Arizona,Bahamas,2018,1,1
+Delon Wright,MEM,27,6 5,183,Utah,USA,2015,1,20
+Demetrius Jackson,PHI,24,6 1,201,Notre Dame,USA,2016,2,45
+Deng Adel,CLE,22,6 7,200,None,South Sudan,Undrafted,Undrafted,Undrafted
+Dennis Schroder,OKC,25,6 1,172,None,Germany,2013,1,17
+Dennis Smith Jr.,NYK,21,6 3,195,North Carolina State,USA,2017,1,9
+Deonte Burton,OKC,25,6 5,245,Iowa State,USA,Undrafted,Undrafted,Undrafted
+Derrick Favors,UTA,27,6 10,265,Georgia Tech,USA,2010,1,3
+Derrick Jones Jr.,MIA,22,6 7,200,UNLV,USA,Undrafted,Undrafted,Undrafted
+Derrick Rose,MIN,30,6 3,200,Memphis,USA,2008,1,1
+Derrick White,SAS,24,6 4,190,Colorado,USA,2017,1,29
+Devin Booker,PHX,22,6 6,210,Kentucky,USA,2015,1,13
+Devin Harris,DAL,36,6 3,185,Wisconsin,USA,2004,1,5
+Devin Robinson,WAS,24,6 8,200,Florida,USA,Undrafted,Undrafted,Undrafted
+Devonte' Graham,CHA,24,6 2,185,University of Kansas,USA,2018,2,34
+Dewayne Dedmon,ATL,29,7 1,245,USC,USA,Undrafted,Undrafted,Undrafted
+Deyonta Davis,ATL,22,6 11,237,Michigan State,USA,2016,2,31
+Dillon Brooks,MEM,23,6 6,220,Oregon,Canada,2017,2,45
+Dion Waiters,MIA,27,6 4,215,Syracuse,USA,2012,1,4
+Dirk Nowitzki,DAL,41,7 1,245,None,Germany,1998,1,9
+Domantas Sabonis,IND,23,6 11,240,Gonzaga,Lithuania,2016,1,11
+Donatas Motiejunas,SAS,28,7 1,220,None,Lithuania,2011,1,20
+Donovan Mitchell,UTA,22,6 3,215,Louisville,USA,2017,1,13
+Donte DiVincenzo,MIL,22,6 4,203,Villanova University,USA,2018,1,17
+Donte Grantham,OKC,24,6 8,215,Clemson University,USA,Undrafted,Undrafted,Undrafted
+Dorian Finney-Smith,DAL,26,6 8,220,Florida,USA,Undrafted,Undrafted,Undrafted
+Doug McDermott,IND,27,6 8,225,Creighton,USA,2014,1,11
+Dragan Bender,PHX,21,7 1,225,None,Croatia,2016,1,4
+Draymond Green,GSW,29,6 7,230,Michigan State,USA,2012,2,35
+Drew Eubanks,SAS,22,6 10,245,None,USA,Undrafted,Undrafted,Undrafted
+Duncan Robinson,MIA,25,6 8,210,Michigan,USA,Undrafted,Undrafted,Undrafted
+Dusty Hannahs,MEM,25,6 4,195,Arkansas,USA,Undrafted,Undrafted,Undrafted
+Dwayne Bacon,CHA,23,6 7,221,Florida State,USA,2017,2,40
+Dwight Howard,WAS,33,6 11,265,None,USA,2004,1,1
+Dwight Powell,DAL,27,6 11,240,Stanford,Canada,2014,2,45
+Dwyane Wade,MIA,37,6 4,220,Marquette,USA,2003,1,5
+Dzanan Musa,BKN,20,6 9,208,None,Bosnia and He...,2018,1,29
+E'Twaun Moore,NOP,30,6 4,191,Purdue,USA,2011,2,55
+Ed Davis,BKN,30,6 10,225,North Carolina,USA,2010,1,13
+Edmond Sumner,IND,23,6 6,176,Xavier,USA,2017,2,52
+Ekpe Udoh,UTA,32,6 10,245,Baylor,USA,2010,1,6
+Elfrid Payton,NOP,25,6 4,185,Louisana-Lafayette,USA,2014,1,10
+Elie Okobo,PHX,21,6 3,190,None,France,2018,2,31
+Emanuel Terry,MIA,22,6 9,220,Lincoln Memorial (TN),USA,Undrafted,Undrafted,Undrafted
+Emmanuel Mudiay,NYK,23,6 5,200,None,Democratic Re...,2015,1,7
+Enes Kanter,POR,27,6 11,250,Kentucky,Turkey,2011,1,3
+Eric Bledsoe,MIL,29,6 1,205,Kentucky,USA,2010,1,18
+Eric Gordon,HOU,30,6 4,215,Indiana,USA,2008,1,7
+Eric Moreland,TOR,27,6 10,238,Oregon State,USA,Undrafted,Undrafted,Undrafted
+Ersan Ilyasova,MIL,32,6 10,235,None,Turkey,2005,2,36
+Evan Fournier,ORL,26,6 7,205,None,France,2012,1,20
+Evan Turner,POR,30,6 7,220,Ohio State,USA,2010,1,2
+Frank Jackson,NOP,21,6 3,205,Duke,USA,2017,2,31
+Frank Kaminsky,CHA,26,7 1,242,Wisconsin,USA,2015,1,9
+Frank Mason,SAC,25,5 11,190,Kansas,USA,2017,2,34
+Frank Ntilikina,NYK,20,6 6,200,None,France,2017,1,8
+Fred VanVleet,TOR,25,6 1,195,Wichita State,USA,Undrafted,Undrafted,Undrafted
+Furkan Korkmaz,PHI,21,6 7,190,None,Turkey,2016,1,26
+Garrett Temple,LAC,33,6 6,195,Louisiana State,USA,Undrafted,Undrafted,Undrafted
+Gary Clark,HOU,24,6 8,225,None,USA,Undrafted,Undrafted,Undrafted
+Gary Harris,DEN,24,6 4,210,Michigan State,USA,2014,1,19
+Gary Payton II,WAS,26,6 3,190,Oregon State,USA,Undrafted,Undrafted,Undrafted
+Gary Trent Jr.,POR,20,6 6,205,None,USA,Undrafted,Undrafted,Undrafted
+George Hill,MIL,33,6 3,188,IUPUI,USA,2008,1,26
+George King,PHX,25,6 6,220,University of Colorado Boulder,USA,2018,2,59
+Georges Niang,UTA,26,6 8,230,Iowa State,USA,2016,2,50
+Gerald Green,HOU,33,6 7,205,None,USA,2005,1,18
+Giannis Antetokounmpo,MIL,24,6 11,242,None,Greece,2013,1,15
+Glenn Robinson III,DET,25,6 6,222,Michigan,USA,2014,2,40
+Goran Dragic,MIA,33,6 3,190,None,Slovenia,2008,2,45
+Gordon Hayward,BOS,29,6 8,225,Butler,USA,2010,1,9
+Gorgui Dieng,MIN,29,6 11,252,Louisville,Senegal,2013,1,21
+Grayson Allen,UTA,23,6 5,198,Duke University,USA,2018,1,21
+Greg Monroe,PHI,29,6 11,265,Georgetown,USA,2010,1,7
+Guerschon Yabusele,BOS,23,6 8,260,None,France,2016,1,16
+Hamidou Diallo,OKC,20,6 5,198,University of Kentucky,USA,2018,2,45
+Harrison Barnes,SAC,27,6 8,225,North Carolina,USA,2012,1,7
+Harry Giles III,SAC,21,6 10,240,Duke,USA,2017,1,20
+Hassan Whiteside,MIA,30,7 1,265,Marshall,USA,2010,2,33
+Haywood Highsmith,PHI,22,6 7,220,None,USA,Undrafted,Undrafted,Undrafted
+Henry Ellenson,NYK,22,6 11,245,Marquette,USA,2016,1,18
+Ian Clark,NOP,28,6 3,175,Belmont,USA,Undrafted,Undrafted,Undrafted
+Ian Mahinmi,WAS,32,6 11,262,None,France,2005,1,28
+Ike Anigbogu,IND,20,6 10,250,California-Los Angeles,USA,2017,2,47
+Iman Shumpert,HOU,29,6 5,215,Georgia Tech,USA,2011,1,17
+Isaac Bonga,LAL,19,6 8,180,None,Germany,2018,2,39
+Isaac Humphries,ATL,21,7 1,260,Kentucky,Australia,Undrafted,Undrafted,Undrafted
+Isaiah Briscoe,ORL,23,6 3,215,None,USA,Undrafted,Undrafted,Undrafted
+Isaiah Canaan,MIL,28,6 1,200,Murray State,USA,2013,2,34
+Isaiah Hartenstein,HOU,21,7 1,249,None,Germany,2017,2,43
+Isaiah Hicks,NYK,24,6 9,230,North Carolina,USA,Undrafted,Undrafted,Undrafted
+Isaiah Thomas,DEN,30,5 9,185,Washington,USA,2011,2,60
+Ish Smith,DET,30,6 1,175,Wake Forest,USA,Undrafted,Undrafted,Undrafted
+Ivan Rabb,MEM,22,6 10,220,"University of California, Berkeley",USA,2017,2,35
+Ivica Zubac,LAC,22,7 1,240,None,Croatia,2016,2,32
+J.J. Barea,DAL,35,6 1,185,Northeastern,Puerto Rico,Undrafted,Undrafted,Undrafted
+J.P. Macura,CHA,24,6 5,205,Xavier University,USA,Undrafted,Undrafted,Undrafted
+JJ Redick,PHI,35,6 4,200,Duke,USA,2006,1,11
+JR Smith,CLE,33,6 6,225,None,USA,2004,1,18
+JaKarr Sampson,CHI,26,6 9,215,"St. John's, N.Y.",USA,Undrafted,Undrafted,Undrafted
+JaMychal Green,LAC,29,6 9,227,Alabama,USA,Undrafted,Undrafted,Undrafted
+JaVale McGee,LAL,31,7 1,270,Nevada-Reno,USA,2008,1,18
+Jabari Parker,WAS,24,6 8,245,Duke,USA,2014,1,2
+Jacob Evans,GSW,22,6 6,210,University of Cincinnati,USA,2018,1,28
+Jae Crowder,UTA,28,6 6,235,Marquette,USA,2012,2,34
+Jahlil Okafor,NOP,23,6 11,275,Duke,USA,2015,1,3
+Jake Layman,POR,25,6 9,215,Maryland,USA,2016,2,47
+Jakob Poeltl,SAS,23,7 1,230,Utah,Austria,2016,1,9
+Jalen Brunson,DAL,22,6 3,190,Villanova University,USA,2018,2,33
+Jalen Jones,CLE,26,6 7,220,Texas A&M,USA,Undrafted,Undrafted,Undrafted
+Jamal Crawford,PHX,39,6 5,185,Michigan,USA,2000,1,8
+Jamal Murray,DEN,22,6 4,207,Kentucky,Canada,2016,1,7
+James Ennis III,PHI,28,6 7,210,Cal State-Long Beach,USA,2013,2,50
+James Harden,HOU,29,6 5,220,Arizona State,USA,2009,1,3
+James Johnson,MIA,32,6 8,240,Wake Forest,USA,2009,1,16
+James Nunnally,HOU,28,6 7,208,California-Santa Barbara,USA,Undrafted,Undrafted,Undrafted
+Jared Dudley,BKN,33,6 7,237,Boston College,USA,2007,1,22
+Jared Terrell,MIN,24,6 3,227,None,USA,Undrafted,Undrafted,Undrafted
+Jarell Martin,ORL,25,6 10,239,Louisiana State,USA,2015,1,25
+Jaren Jackson Jr.,MEM,19,6 11,242,Michigan State University,USA,2018,1,4
+Jaron Blossomgame,CLE,25,6 8,220,Clemson,USA,2017,2,59
+Jarred Vanderbilt,DEN,20,6 9,214,University of Kentucky,USA,2018,2,41
+Jarrett Allen,BKN,21,6 11,237,Texas,USA,2017,1,22
+Jason Smith,NOP,33,7 1,240,Colorado State,USA,2007,1,20
+Jawun Evans,OKC,22,6 1,190,Oklahoma State,USA,2017,2,39
+Jaylen Adams,ATL,23,6 2,190,None,USA,Undrafted,Undrafted,Undrafted
+Jaylen Brown,BOS,22,6 7,220,California,USA,2016,1,3
+Jaylen Morris,MIL,23,6 5,185,Molloy,USA,Undrafted,Undrafted,Undrafted
+Jayson Tatum,BOS,21,6 8,208,Duke,USA,2017,1,3
+Jeff Green,WAS,32,6 9,235,Georgetown,USA,2007,1,5
+Jeff Teague,MIN,31,6 2,195,Wake Forest,USA,2009,1,19
+Jemerrio Jones,LAL,24,6 5,174,None,USA,Undrafted,Undrafted,Undrafted
+Jerami Grant,OKC,25,6 9,220,Syracuse,USA,2014,2,39
+Jeremy Lamb,CHA,27,6 5,185,Connecticut,USA,2012,1,12
+Jeremy Lin,TOR,30,6 3,200,Harvard,USA,Undrafted,Undrafted,Undrafted
+Jerian Grant,ORL,26,6 4,205,Notre Dame,USA,2015,1,19
+Jerome Robinson,LAC,22,6 5,190,Boston College,USA,2018,1,13
+Jerryd Bayless,MIN,30,6 3,200,Arizona,USA,2008,1,11
+Jevon Carter,MEM,23,6 2,196,West Virginia University,USA,2018,2,32
+Jimmer Fredette,PHX,30,6 2,195,Brigham Young,USA,2011,1,10
+Jimmy Butler,PHI,29,6 8,232,Marquette,USA,2011,1,30
+Joakim Noah,MEM,34,6 11,230,Florida,USA,2007,1,9
+Jodie Meeks,TOR,31,6 4,210,Kentucky,USA,2009,2,41
+Joe Chealey,CHA,23,6 3,190,College of Charleston,USA,Undrafted,Undrafted,Undrafted
+Joe Harris,BKN,27,6 6,218,Virginia,USA,2014,2,33
+Joe Ingles,UTA,31,6 8,226,None,Australia,Undrafted,Undrafted,Undrafted
+Joel Embiid,PHI,25,7 1,250,Kansas,Cameroon,2014,1,3
+John Collins,ATL,21,6 10,235,Wake Forest,USA,2017,1,19
+John Henson,CLE,28,6 11,219,North Carolina,USA,2012,1,14
+John Holland,CLE,30,6 5,205,Boston U.,USA,Undrafted,Undrafted,Undrafted
+John Jenkins,NYK,28,6 4,215,Vanderbilt,USA,2012,1,23
+John Wall,WAS,28,6 4,210,Kentucky,USA,2010,1,1
+Johnathan Motley,LAC,24,6 10,230,Baylor,USA,Undrafted,Undrafted,Undrafted
+Johnathan Williams,LAL,24,6 9,228,Gonzaga University,USA,Undrafted,Undrafted,Undrafted
+Jon Leuer,DET,30,6 10,228,Wisconsin,USA,2011,2,40
+Jonah Bolden,PHI,23,6 10,220,None,Australia,2017,2,36
+Jonas Jerebko,GSW,32,6 10,231,None,Sweden,2009,2,39
+Jonas Valanciunas,MEM,27,7 1,265,None,Lithuania,2011,1,5
+Jonathan Isaac,ORL,21,6 10,210,Florida State,USA,2017,1,6
+Jonathon Simmons,PHI,29,6 6,195,Houston,USA,Undrafted,Undrafted,Undrafted
+Jordan Bell,GSW,24,6 9,224,Oregon,USA,2017,2,38
+Jordan Clarkson,CLE,27,6 5,194,Missouri,USA,2014,2,46
+Jordan Loyd,TOR,25,6 4,210,None,USA,Undrafted,Undrafted,Undrafted
+Jordan McRae,WAS,28,6 5,179,Tennessee,USA,2014,2,58
+Jordan Sibert,ATL,26,6 4,187,University of Dayton,USA,Undrafted,Undrafted,Undrafted
+Jose Calderon,DET,37,6 3,200,None,Spain,Undrafted,Undrafted,Undrafted
+Josh Hart,LAL,24,6 5,215,Villanova,USA,2017,1,30
+Josh Jackson,PHX,22,6 8,200,Kansas,USA,2017,1,4
+Josh Okogie,MIN,20,6 4,212,Georgia Institute of Technology,Nigeria,2018,1,20
+Josh Richardson,MIA,25,6 6,200,Tennessee,USA,2015,2,40
+Jrue Holiday,NOP,29,6 4,205,UCLA,USA,2009,1,17
+Juancho Hernangomez,DEN,23,6 9,230,None,Spain,2016,1,15
+Julian Washburn,MEM,27,6 8,209,Texas-El Paso,USA,Undrafted,Undrafted,Undrafted
+Julius Randle,NOP,24,6 9,250,Kentucky,USA,2014,1,7
+Justin Anderson,ATL,25,6 6,230,Virginia,USA,2015,1,21
+Justin Holiday,MEM,30,6 6,181,Washington,USA,Undrafted,Undrafted,Undrafted
+Justin Jackson,DAL,24,6 8,210,North Carolina,USA,2017,1,15
+Justin Patton,PHI,22,7 1,241,Creighton,USA,2017,1,16
+Justise Winslow,MIA,23,6 7,225,Duke,USA,2015,1,10
+Jusuf Nurkic,POR,24,7 1,275,None,Bosnia and He...,2014,1,16
+Kadeem Allen,NYK,26,6 3,200,Arizona,USA,2017,2,53
+Kalin Lucas,DET,30,6 1,195,Michigan State,USA,Undrafted,Undrafted,Undrafted
+Karl-Anthony Towns,MIN,23,7 1,248,Kentucky,USA,2015,1,1
+Kawhi Leonard,TOR,28,6 7,230,San Diego State,USA,2011,1,15
+Keita Bates-Diop,MIN,23,6 9,229,Ohio State University,USA,2018,2,48
+Kelly Olynyk,MIA,28,7 1,240,Gonzaga,Canada,2013,1,13
+Kelly Oubre Jr.,PHX,23,6 7,205,Kansas,USA,2015,1,15
+Kemba Walker,CHA,29,6 1,184,Connecticut,USA,2011,1,9
+Kenneth Faried,HOU,29,6 8,220,Morehead State,USA,2011,1,22
+Kenrich Williams,NOP,24,6 7,210,None,USA,Undrafted,Undrafted,Undrafted
+Kent Bazemore,ATL,29,6 5,201,Old Dominion,USA,Undrafted,Undrafted,Undrafted
+Kentavious Caldwell-Pope,LAL,26,6 5,205,Georgia,USA,2013,1,8
+Kevin Durant,GSW,30,6 9,240,Texas,USA,2007,1,2
+Kevin Huerter,ATL,20,6 7,190,University of Maryland,USA,2018,1,19
+Kevin Knox,NYK,19,6 9,215,University of Kentucky,USA,2018,1,9
+Kevin Love,CLE,30,6 10,251,UCLA,USA,2008,1,5
+Kevon Looney,GSW,23,6 9,220,UCLA,USA,2015,1,30
+Khem Birch,ORL,26,6 9,233,UNLV,Canada,Undrafted,Undrafted,Undrafted
+Khris Middleton,MIL,27,6 8,222,Texas A&M,USA,2012,2,39
+Khyri Thomas,DET,23,6 3,210,Creighton University,USA,2018,2,38
+Klay Thompson,GSW,29,6 7,215,Washington State,USA,2011,1,11
+Kobi Simmons,CLE,21,6 4,170,Arizona,USA,Undrafted,Undrafted,Undrafted
+Kosta Koufos,SAC,30,7 1,245,Ohio State,USA,2008,1,23
+Kostas Antetokounmpo,DAL,21,6 10,200,University of Dayton,Greece,2018,2,60
+Kris Dunn,CHI,25,6 4,205,Providence,USA,2016,1,5
+Kyle Anderson,MEM,25,6 9,230,UCLA,USA,2014,1,30
+Kyle Korver,UTA,38,6 7,212,Creighton,USA,2003,2,51
+Kyle Kuzma,LAL,23,6 9,220,Utah,USA,2017,1,27
+Kyle Lowry,TOR,33,6 1,196,Villanova,USA,2006,1,24
+Kyle O'Quinn,IND,29,6 10,250,Norfolk State,USA,2012,2,49
+Kyrie Irving,BOS,27,6 3,193,Duke,Australia,2011,1,1
+LaMarcus Aldridge,SAS,33,6 11,260,Texas,USA,2006,1,2
+Lance Stephenson,LAL,28,6 6,230,Cincinnati,USA,2010,2,40
+Lance Thomas,NYK,31,6 8,240,Duke,USA,Undrafted,Undrafted,Undrafted
+Landry Shamet,LAC,22,6 5,188,Wichita State University,USA,2018,1,26
+Langston Galloway,DET,27,6 2,200,"St. Joseph's, PA",USA,Undrafted,Undrafted,Undrafted
+Larry Nance Jr.,CLE,26,6 9,230,Wyoming,USA,2015,1,27
+Lauri Markkanen,CHI,22,7 1,240,Arizona,Finland,2017,1,7
+LeBron James,LAL,34,6 8,250,None,USA,2003,1,1
+Lonnie Walker IV,SAS,20,6 5,205,University of Miami,USA,2018,1,18
+Lonzo Ball,LAL,21,6 6,190,UCLA,USA,2017,1,2
+Lorenzo Brown,TOR,28,6 5,189,North Carolina State,USA,2013,2,52
+Lou Williams,LAC,32,6 1,175,None,USA,2005,2,45
+Luc Mbah a Moute,LAC,32,6 8,230,California-Los Angeles,Cameroon,2008,2,37
+Luka Doncic,DAL,20,6 7,218,None,Slovenia,2018,1,3
+Luke Kennard,DET,23,6 5,206,Duke,USA,2017,1,12
+Luke Kornet,NYK,23,7 1,250,Vanderbilt,USA,Undrafted,Undrafted,Undrafted
+Luol Deng,MIN,34,6 9,237,Duke,United Kingdo...,2004,1,7
+Malachi Richardson,TOR,23,6 6,205,Syracuse,USA,2016,1,22
+Malcolm Brogdon,MIL,26,6 5,229,Virginia,USA,2016,2,36
+Malcolm Miller,TOR,26,6 7,210,Holy Cross,USA,Undrafted,Undrafted,Undrafted
+Malik Beasley,DEN,22,6 5,195,Florida State,USA,2016,1,19
+Malik Monk,CHA,21,6 3,200,Kentucky,USA,2017,1,11
+MarShon Brooks,MEM,30,6 5,200,Providence,USA,2011,1,25
+Marc Gasol,TOR,34,7 1,255,None,Spain,2007,2,48
+Marcin Gortat,LAC,35,6 11,240,None,Poland,2005,2,57
+Marco Belinelli,SAS,33,6 5,210,None,Italy,2007,1,18
+Marcus Derrickson,GSW,23,6 7,249,None,USA,Undrafted,Undrafted,Undrafted
+Marcus Morris,BOS,29,6 9,235,Kansas,USA,2011,1,14
+Marcus Smart,BOS,25,6 4,220,Oklahoma State,USA,2014,1,6
+Mario Hezonja,NYK,24,6 8,225,None,Croatia,2015,1,5
+Markelle Fultz,ORL,21,6 4,200,Washington,USA,2017,1,1
+Markieff Morris,OKC,29,6 10,245,Kansas,USA,2011,1,13
+Marquese Chriss,CLE,21,6 10,240,Washington,USA,2016,1,8
+Marvin Bagley III,SAC,20,6 11,234,Duke University,USA,2018,1,2
+Marvin Williams,CHA,33,6 9,237,North Carolina,USA,2005,1,2
+Mason Plumlee,DEN,29,6 11,235,Duke,USA,2013,1,22
+Matthew Dellavedova,CLE,28,6 4,200,St. Mary's (CA),Australia,Undrafted,Undrafted,Undrafted
+Maurice Harkless,POR,26,6 9,220,"St. John's, N.Y.",USA,2012,1,15
+Maxi Kleber,DAL,27,6 11,240,None,Germany,Undrafted,Undrafted,Undrafted
+Melvin Frazier Jr.,ORL,22,6 6,200,Tulane University,USA,2018,2,35
+Meyers Leonard,POR,27,7 1,255,Illinois,USA,2012,1,11
+Michael Beasley,LAL,30,6 9,235,Kansas State,USA,2008,1,2
+Michael Carter-Williams,ORL,27,6 6,190,Syracuse,USA,2013,1,11
+Michael Kidd-Gilchrist,CHA,25,6 7,232,Kentucky,USA,2012,1,2
+Mikal Bridges,PHX,22,6 7,210,Villanova University,USA,2018,1,10
+Mike Conley,MEM,31,6 1,175,Ohio State,USA,2007,1,4
+Mike Muscala,LAL,27,6 11,240,Bucknell,USA,2013,2,44
+Mike Scott,PHI,30,6 8,237,Virginia,USA,2012,2,43
+Miles Bridges,CHA,21,6 7,225,Michigan State University,USA,2018,1,12
+Miles Plumlee,ATL,30,6 11,249,Duke,USA,2012,1,26
+Milos Teodosic,LAC,32,6 5,196,None,Serbia,Undrafted,Undrafted,Undrafted
+Mitchell Creek,MIN,27,6 6,225,None,Australia,Undrafted,Undrafted,Undrafted
+Mitchell Robinson,NYK,21,7 1,240,None,USA,2018,2,36
+Mo Bamba,ORL,21,7 1,221,University of Texas at Austin,USA,2018,1,6
+Monte Morris,DEN,24,6 3,175,Iowa State,USA,2017,2,51
+Montrezl Harrell,LAC,25,6 8,240,Louisville,USA,2015,2,32
+Moritz Wagner,LAL,22,6 11,245,University of Michigan,Germany,2018,1,25
+Myles Turner,IND,23,6 11,250,Texas,USA,2015,1,11
+Naz Mitrou-Long,UTA,25,6 4,218,Iowa State,Canada,Undrafted,Undrafted,Undrafted
+Nemanja Bjelica,SAC,31,6 10,234,None,Serbia,2010,2,35
+Nene,HOU,36,6 11,250,None,Brazil,2002,1,7
+Nerlens Noel,OKC,25,6 11,220,Kentucky,USA,2013,1,6
+Nick Young,DEN,34,6 7,210,Southern California,USA,2007,1,16
+Nicolas Batum,CHA,30,6 8,200,None,France,2008,1,25
+Nik Stauskas,CLE,25,6 6,205,Michigan,Canada,2014,1,8
+Nikola Jokic,DEN,24,7 1,250,None,Serbia,2014,2,41
+Nikola Mirotic,MIL,28,6 10,250,None,Montenegro,2011,1,23
+Nikola Vucevic,ORL,28,7 1,260,USC,Montenegro,2011,1,16
+Noah Vonleh,NYK,23,6 9,250,Indiana,USA,2014,1,9
+Norman Powell,TOR,26,6 4,215,UCLA,USA,2015,2,46
+OG Anunoby,TOR,21,6 8,232,Indiana,United Kingdo...,2017,1,23
+Okaro White,WAS,26,6 8,205,Florida State,USA,Undrafted,Undrafted,Undrafted
+Omari Spellman,ATL,21,6 9,245,Villanova University,USA,2018,1,30
+Omri Casspi,MEM,31,6 9,225,None,Israel,2009,1,23
+Otto Porter Jr.,CHI,26,6 8,198,Georgetown,USA,2013,1,3
+PJ Dozier,BOS,22,6 6,205,South Carolina,USA,Undrafted,Undrafted,Undrafted
+PJ Tucker,HOU,34,6 6,245,Texas,USA,2006,2,35
+Pascal Siakam,TOR,25,6 9,230,New Mexico State,Cameroon,2016,1,27
+Pat Connaughton,MIL,26,6 4,209,Notre Dame,USA,2015,2,41
+Patrick Beverley,LAC,30,6 1,185,None,USA,2009,2,42
+Patrick McCaw,TOR,23,6 7,185,UNLV,USA,2016,2,38
+Patrick Patterson,OKC,30,6 9,230,Kentucky,USA,2010,1,14
+Patty Mills,SAS,30,6 1,180,St. Mary's (CA),Australia,2009,2,55
+Pau Gasol,MIL,38,7 1,250,None,Spain,2001,1,3
+Paul George,OKC,29,6 9,220,Fresno State,USA,2010,1,10
+Paul Millsap,DEN,34,6 8,246,Louisiana Tech,USA,2006,2,47
+Quincy Acy,PHX,28,6 7,240,Baylor,USA,2012,2,37
+Quincy Pondexter,SAS,31,6 7,230,Washington,USA,2010,1,26
+Quinn Cook,GSW,26,6 2,179,Duke,USA,Undrafted,Undrafted,Undrafted
+RJ Hunter,BOS,25,6 5,185,Georgia State,USA,2015,1,28
+Rajon Rondo,LAL,33,6 1,186,,USA,2006,1,21
+Raul Neto,UTA,27,6 1,179,None,Brazil,2013,2,47
+Rawle Alkins,CHI,21,6 5,225,None,USA,Undrafted,Undrafted,Undrafted
+Ray Spalding,PHX,22,6 10,215,Louisville,USA,2018,2,56
+Raymond Felton,OKC,35,6 1,205,North Carolina,USA,2005,1,5
+Reggie Bullock,LAL,28,6 7,205,North Carolina,USA,2013,1,25
+Reggie Jackson,DET,29,6 3,208,Boston College,USA,2011,1,24
+Richaun Holmes,PHX,25,6 10,235,Bowling Green,USA,2015,2,37
+Ricky Rubio,UTA,28,6 4,190,None,Spain,2009,1,5
+Robert Covington,MIN,28,6 9,225,Tennessee State,USA,Undrafted,Undrafted,Undrafted
+Robert Williams III,BOS,21,6 10,240,Texas A&M University,USA,2018,1,27
+Robin Lopez,CHI,31,7 1,275,Stanford,USA,2008,1,15
+Rodions Kurucs,BKN,21,6 9,210,None,Latvia,2018,2,40
+Rodney Hood,POR,26,6 8,206,Duke,USA,2014,1,23
+Rodney McGruder,LAC,27,6 4,200,Kansas State,USA,Undrafted,Undrafted,Undrafted
+Ron Baker,WAS,26,6 4,220,Wichita State,USA,Undrafted,Undrafted,Undrafted
+Rondae Hollis-Jefferson,BKN,24,6 7,217,Arizona,USA,2015,1,23
+Royce O'Neale,UTA,26,6 6,226,Baylor,USA,Undrafted,Undrafted,Undrafted
+Rudy Gay,SAS,32,6 8,230,Connecticut,USA,2006,1,8
+Rudy Gobert,UTA,27,7 1,245,None,France,2013,1,27
+Russell Westbrook,OKC,30,6 3,200,UCLA,USA,2008,1,4
+Ryan Anderson,MIA,31,6 10,240,California,USA,2008,1,21
+Ryan Arcidiacono,CHI,25,6 3,200,Villanova,USA,Undrafted,Undrafted,Undrafted
+Ryan Broekhoff,DAL,28,6 7,215,None,Australia,Undrafted,Undrafted,Undrafted
+Salah Mejri,DAL,33,7 2,235,None,Tunisia,Undrafted,Undrafted,Undrafted
+Sam Dekker,WAS,25,6 9,230,Wisconsin,USA,2015,1,18
+Scott Machado,LAL,29,6 1,205,Iona,USA,Undrafted,Undrafted,Undrafted
+Semi Ojeleye,BOS,24,6 7,241,Southern Methodist,USA,2017,2,37
+Serge Ibaka,TOR,29,6 10,235,None,Democratic Re...,2008,1,24
+Seth Curry,POR,28,6 2,185,Duke,USA,Undrafted,Undrafted,Undrafted
+Shabazz Napier,BKN,27,6 1,180,Connecticut,USA,2014,1,24
+Shai Gilgeous-Alexander,LAC,20,6 6,181,University of Kentucky,Canada,2018,1,11
+Shake Milton,PHI,22,6 6,207,Southern Methodist University,USA,2018,2,54
+Shaquille Harrison,CHI,25,6 4,190,Tulsa,USA,Undrafted,Undrafted,Undrafted
+Shaun Livingston,GSW,33,6 7,192,None,USA,2004,1,4
+Shelvin Mack,CHA,29,6 3,203,Butler,USA,2011,2,34
+Sindarius Thornwell,LAC,24,6 5,215,South Carolina,USA,2017,2,48
+Skal Labissiere,POR,23,6 11,235,Kentucky,Haiti,2016,1,28
+Solomon Hill,NOP,28,6 7,225,Arizona,USA,2013,1,23
+Spencer Dinwiddie,BKN,26,6 6,210,Colorado,USA,2014,2,38
+Stanley Johnson,NOP,23,6 7,245,Arizona,USA,2015,1,8
+Stephen Curry,GSW,31,6 3,190,Davidson,USA,2009,1,7
+Sterling Brown,MIL,24,6 6,232,Southern Methodist,USA,2017,2,46
+Steven Adams,OKC,25,7 1,265,Pittsburgh,New Zealand,2013,1,12
+Svi Mykhailiuk,DET,22,6 8,205,University of Kansas,Ukraine,2018,2,47
+T.J. McConnell,PHI,27,6 2,190,Arizona,USA,Undrafted,Undrafted,Undrafted
+T.J. Warren,PHX,25,6 8,215,North Carolina State,USA,2014,1,14
+TJ Leaf,IND,22,6 10,225,UCLA,USA,2017,1,18
+Tahjere McCall,BKN,24,6 5,190,Tennessee State University,USA,Undrafted,Undrafted,Undrafted
+Taj Gibson,MIN,34,6 9,232,USC,USA,2009,1,26
+Taurean Prince,ATL,25,6 8,220,Baylor,USA,2016,1,12
+Terrance Ferguson,OKC,21,6 7,190,None,USA,2017,1,21
+Terrence Jones,HOU,27,6 9,252,Kentucky,USA,2012,1,18
+Terrence Ross,ORL,28,6 7,206,Washington,USA,2012,1,8
+Terry Rozier,BOS,25,6 1,190,Louisville,USA,2015,1,16
+Thabo Sefolosha,UTA,35,6 7,220,None,Switzerland,2006,1,13
+Thaddeus Young,IND,31,6 8,221,Georgia Tech,USA,2007,1,12
+Theo Pinson,BKN,23,6 6,218,None,USA,Undrafted,Undrafted,Undrafted
+Thomas Bryant,WAS,21,6 11,248,Indiana,USA,2017,2,42
+Thomas Welsh,DEN,23,7 1,255,None,USA,2018,2,58
+Thon Maker,DET,22,7 1,221,None,South Sudan,2016,1,10
+Tim Frazier,MIL,28,6 1,170,None,USA,Undrafted,Undrafted,Undrafted
+Tim Hardaway Jr.,DAL,27,6 6,205,Michigan,USA,2013,1,24
+Timothe Luwawu-Cabarrot,CHI,24,6 6,210,None,France,2016,1,24
+Tobias Harris,PHI,26,6 9,235,Tennessee,USA,2011,1,19
+Tomas Satoransky,WAS,27,6 7,210,None,Czech Republi...,2012,2,32
+Tony Bradley,UTA,21,6 10,248,North Carolina,USA,2017,1,28
+Tony Parker,CHA,37,6 2,185,None,France,2001,1,28
+Tony Snell,MIL,27,6 7,213,,USA,2013,1,20
+Torrey Craig,DEN,28,6 7,215,South Carolina Upstate,USA,Undrafted,Undrafted,Undrafted
+Trae Young,ATL,20,6 2,180,University of Oklahoma,USA,2018,1,5
+Treveon Graham,BKN,25,6 5,225,Va Commonwealth,USA,Undrafted,Undrafted,Undrafted
+Trevon Duval,HOU,20,6 2,189,None,USA,Undrafted,Undrafted,Undrafted
+Trevor Ariza,WAS,33,6 8,215,UCLA,USA,2004,2,43
+Trey Burke,DAL,26,6 1,175,Michigan,USA,2013,1,9
+Trey Lyles,DEN,23,6 10,234,Kentucky,USA,2015,1,12
+Tristan Thompson,CLE,28,6 10,238,Texas,Canada,2011,1,4
+Troy Brown Jr.,WAS,19,6 7,215,University of Oregon,USA,2018,1,15
+Troy Caupain,ORL,23,6 4,210,Cincinnati,USA,Undrafted,Undrafted,Undrafted
+Troy Daniels,PHX,27,6 4,205,Va Commonwealth,USA,Undrafted,Undrafted,Undrafted
+Troy Williams,SAC,24,6 7,218,Indiana,USA,Undrafted,Undrafted,Undrafted
+Tyler Cavanaugh,UTA,25,6 9,238,George Washington,USA,Undrafted,Undrafted,Undrafted
+Tyler Davis,OKC,22,6 10,266,None,USA,Undrafted,Undrafted,Undrafted
+Tyler Dorsey,MEM,23,6 5,183,Oregon,USA,2017,2,41
+Tyler Johnson,PHX,27,6 4,190,Fresno State,USA,Undrafted,Undrafted,Undrafted
+Tyler Lydon,DEN,23,6 10,225,Syracuse,USA,2017,1,24
+Tyler Ulis,CHI,23,5 10,160,Kentucky,USA,2016,2,34
+Tyler Zeller,MEM,29,7 1,253,North Carolina,USA,2012,1,17
+Tyreke Evans,IND,29,6 6,220,Memphis,USA,2009,1,4
+Tyrone Wallace,LAC,25,6 5,198,California,USA,2016,2,60
+Tyson Chandler,LAL,36,7 1,240,None,USA,2001,1,2
+Tyus Jones,MIN,23,6 2,196,Duke,USA,2015,1,24
+Udonis Haslem,MIA,39,6 8,235,Florida,USA,Undrafted,Undrafted,Undrafted
+Victor Oladipo,IND,27,6 4,210,Indiana,USA,2013,1,2
+Vince Carter,ATL,42,6 6,220,North Carolina,USA,1998,1,5
+Vincent Edwards,HOU,23,6 8,225,Purdue University,USA,2018,2,52
+Wade Baldwin IV,POR,23,6 4,200,Vanderbilt,USA,2016,1,17
+Walter Lemon Jr.,CHI,26,6 3,180,None,USA,Undrafted,Undrafted,Undrafted
+Wayne Ellington,DET,31,6 5,200,North Carolina,USA,2009,1,28
+Wayne Selden,CHI,24,6 5,230,Kansas,USA,Undrafted,Undrafted,Undrafted
+Wendell Carter Jr.,CHI,20,6 10,255,Duke University,USA,2018,1,7
+Wes Iwundu,ORL,24,6 7,195,Kansas State,USA,2017,2,33
+Wesley Johnson,WAS,31,6 7,215,Syracuse,USA,2010,1,4
+Wesley Matthews,IND,32,6 5,220,Marquette,USA,Undrafted,Undrafted,Undrafted
+Will Barton,DEN,28,6 6,190,Memphis,USA,2012,2,40
+Willie Cauley-Stein,SAC,25,7 1,240,Kentucky,USA,2015,1,6
+Willy Hernangomez,CHA,25,6 11,240,None,Spain,2015,2,35
+Wilson Chandler,LAC,32,6 9,225,DePaul,USA,2007,1,23
+Yante Maten,MIA,22,6 8,240,None,USA,Undrafted,Undrafted,Undrafted
+Yogi Ferrell,SAC,26,6 1,180,Indiana,USA,Undrafted,Undrafted,Undrafted
+Yuta Watanabe,MEM,24,6 9,205,None,Japan,Undrafted,Undrafted,Undrafted
+Zach Collins,POR,21,7 1,235,Gonzaga,USA,2017,1,10
+Zach LaVine,CHI,24,6 5,200,UCLA,USA,2014,1,13
+Zach Lofton,DET,26,6 4,180,New Mexico State,USA,Undrafted,Undrafted,Undrafted
+Zaza Pachulia,DET,35,6 11,270,None,Georgia,2003,2,42
+Zhaire Smith,PHI,20,6 4,199,Texas Tech University,USA,2018,1,16
+Zhou Qi,HOU,23,7 1,210,None,China,2016,2,43
