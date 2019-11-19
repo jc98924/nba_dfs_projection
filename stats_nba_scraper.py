@@ -212,6 +212,8 @@ def get_statistics(game_id, time_out, driver, table_type):
            #'OffLooseBallsRecov', 'DefLooseBallsRecov', 'LooseBallsRecov',
            #'ChgsDrawn', 'Contested2PT', 'Contested3PT', 'ContestedShot']
         headers = [header.get_text().strip() for header in stats_table[0].find_all('thead')[0].find_all('th')]
+    elif table_type == 'defense':
+        headers = list(filter(None, soup.find_all('tr')[10].text.split('\n')))
     else:
         headers = list(filter(None, soup.find_all('tr')[10].text.replace('\n',' ').strip().split(' ')))
 
@@ -224,7 +226,7 @@ def get_statistics(game_id, time_out, driver, table_type):
 
     if table_type == 'defense':
         df.drop('Date', axis = 1, inplace = True)
-        df.dropna(axis = 0, how = 'any', inplace = True, subset = ['TEAMPTS'])
+        df.dropna(axis = 0, how = 'any', inplace = True, subset = ['PTS'])
         df.columns = df.columns.map(lambda x: x + '_{}'.format(table_type_dict[table_type]) if x != 'Player' else x)
     else:
         df.drop(['Date', 'MIN'], axis = 1, inplace = True)
